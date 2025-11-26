@@ -1,0 +1,6 @@
+[submodule "gh-repo-extension"]
+	path = gh-repo-extension
+	url = git@github.com:hiroki1389/gh-repo-extension.git
+[submodule "happie-login"]
+	path = happie-login
+	url = git@github.com:hiroki1389/happie-login.git
