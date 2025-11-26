@@ -8,13 +8,13 @@
 
 GitHubのリポジトリページから、そのユーザーのリポジトリ一覧に一発で移動できるブラウザ拡張機能です。
 
-詳細は [gh-repo-extension/README.md](./gh-repo-extension/README.md) を参照してください。
+詳細は [リポジトリ](https://github.com/hiroki1389/gh-repo-extension) を参照してください。
 
 ### happie-login
 
 関西電力「はぴｅみる電」のログインページでIDとパスワードを自動入力してログインするChrome拡張機能です。
 
-詳細は [happie-login/README.md](./happie-login/README.md) を参照してください。
+詳細は [リポジトリ](https://github.com/hiroki1389/happie-login) を参照してください。
 
 ## インストール方法
 
