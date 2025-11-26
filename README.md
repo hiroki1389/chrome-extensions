@@ -4,17 +4,13 @@
 
 ## 拡張機能一覧
 
-### gh-repo-extension
+### [gh-repo-extension](https://github.com/hiroki1389/gh-repo-extension)
 
 GitHubのリポジトリページから、そのユーザーのリポジトリ一覧に一発で移動できるブラウザ拡張機能です。
 
-詳細は [リポジトリ](https://github.com/hiroki1389/gh-repo-extension) を参照してください。
-
-### happie-login
+### [happie-login](https://github.com/hiroki1389/happie-login)
 
 関西電力「はぴｅみる電」のログインページでIDとパスワードを自動入力してログインするChrome拡張機能です。
-
-詳細は [リポジトリ](https://github.com/hiroki1389/happie-login) を参照してください。
 
 ## インストール方法
 
@@ -26,4 +22,3 @@ GitHubのリポジトリページから、そのユーザーのリポジトリ�
 4. 各拡張機能のフォルダを選択
 
 各拡張機能の詳細な使用方法は、それぞれのREADMEを参照してください。
-
