@@ -4,3 +4,6 @@
 [submodule "happie-login"]
 	path = happie-login
 	url = git@github.com:hiroki1389/happie-login.git
+[submodule "twitter-gif-downloader"]
+	path = twitter-gif-downloader
+	url = git@github.com:hiroki1389/twitter-gif-downloader.git

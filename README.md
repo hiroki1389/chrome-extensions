@@ -12,6 +12,10 @@ GitHubのリポジトリページから、そのユーザーのリポジトリ�
 
 関西電力「はぴｅみる電」のログインページでIDとパスワードを自動入力してログインするChrome拡張機能です。
 
+### [twitter-gif-downloader](https://github.com/hiroki1389/twitter-gif-downloader)
+
+TwitterのGIF画像の横にダウンロードボタンを追加するChrome拡張機能です。
+
 ## インストール方法
 
 各拡張機能をインストールするには：
